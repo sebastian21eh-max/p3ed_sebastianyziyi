@@ -7,3 +7,8 @@
 # Archivos compilados
 bin/
 *.class
+# Ignorar todos los archivos .class
+*.class
+
+# Ignorar toda la carpeta bin (donde suelen compilarse los .class)
+bin/
